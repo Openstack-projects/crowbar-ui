@@ -58,7 +58,7 @@
     "karma-chai-sinon": "^0.1.5",
     "karma-chrome-launcher": "^2.0.0",
     "karma-coverage": "^1.1.1",
-    "karma-jasmine": "^1.0.2",
+    "karma-jasmine": "^4.0.0",
     "karma-phantomjs-launcher": "^1.0.1",
     "karma-sinon": "^1.0.5",
     "optional": "^0.1.3",
